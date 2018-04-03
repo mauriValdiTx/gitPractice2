@@ -1,1 +1,1 @@
-A text for testing.
+A text for merging conflict.
